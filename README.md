@@ -1,4 +1,5 @@
-gitTraining
+#raining
 ===========
 
 Training class sample
+bdc
