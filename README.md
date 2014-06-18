@@ -1,0 +1,4 @@
+gitTraining
+===========
+
+Training class sample
